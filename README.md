@@ -21,3 +21,6 @@ This Python program checks if a given year is a leap year. It includes input val
 ```bash
 Enter the year: 2024
 The entered year 2024 is a leap year.
+
+Enter the year: abc
+Invalid input. Please enter a valid integer for the year.
