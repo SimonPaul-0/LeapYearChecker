@@ -1,3 +1,5 @@
+---
+
 # Leap Year Checker
 
 This Python program checks if a given year is a leap year. It includes input validation to ensure that the entered year is a positive integer.
@@ -25,5 +27,11 @@ The entered year 2024 is a leap year.
 Enter the year: abc
 Invalid input. Please enter a valid integer for the year.
 ```
+## Contributions
+
+If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Feel free to contribute, report issues, or customize the program based on your specific project details.Bug fixes, feature enhancements, and code improvements are welcome.
 ## Author
 [Simon Paul]
+
+
+---
