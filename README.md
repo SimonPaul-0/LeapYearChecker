@@ -24,3 +24,6 @@ The entered year 2024 is a leap year.
 
 Enter the year: abc
 Invalid input. Please enter a valid integer for the year.
+```
+## Author
+[Simon Paul]
